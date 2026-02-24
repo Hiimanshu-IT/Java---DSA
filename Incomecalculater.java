@@ -1,5 +1,5 @@
 import java.util.*;
-public class Javabasic {
+public class Incomecalculater{
    public static void main (String[]args){
     System.out.println("enter your income");
     Scanner sc = new Scanner (System.in);
