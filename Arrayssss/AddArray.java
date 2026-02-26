@@ -1,5 +1,5 @@
 package Arrayssss;
-public class Addition {
+public class AddArray {
 
     public static int[] SumArr(int new1[],int new2[]){
         int result[]=new int[new2.length];
