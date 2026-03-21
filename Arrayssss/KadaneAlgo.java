@@ -19,6 +19,6 @@ public class KadaneAlgo {
     public static void main(String[]args){
         int nums[]={-2,-3,4,-1,-2,1,5,-3};
                 Kadanes(nums);
-           
+  
        }
 }

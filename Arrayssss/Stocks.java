@@ -28,6 +28,6 @@ public class Stocks {
         //  1 |   ●
         //    --------------------------------
         //      0   1   2   3   4   5  (Day)
-        System.out.println("The Highest Prize is : "+BuyStockSell(prices));;
+        System.out.println("The Highest Prize is : "+BuyStockSell(prices));
     }
 }
