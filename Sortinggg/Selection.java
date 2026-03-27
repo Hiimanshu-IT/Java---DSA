@@ -13,7 +13,10 @@ public class Selection {
             //now we have to create the inner loop
             for(int j=i+1;j<arr.length;j++){
                 //now we have to check the condition for the min/max.
+                //in below if condition we are checking for the minimum element.
+                // So if we change the between sign then we can get the maximum element.
                 if(arr[MinPos]>arr[j]){
+                //if(arr[MinPos]<arr[j])for maximum element.
                 MinPos=j;
             }
           }
