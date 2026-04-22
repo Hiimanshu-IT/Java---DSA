@@ -3,6 +3,7 @@ package Arrayssss;
 import java.util.Scanner;
 
 public class Matrix {
+    //we are creating this function for the se  arching process
     public static boolean Search(int matrix[][],int key){
         for(int i=0;i<matrix.length;i++){
             for(int j = 0;j<matrix[0].length;j++){
